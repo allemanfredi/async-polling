@@ -2,6 +2,13 @@
   "name": "light-async-polling",
   "version": "1.0.1",
   "description": "",
+  "keywords": [
+    "light-async-polling",
+    "async-polling",
+    "node",
+    "polling",
+    "javascript"
+  ],
   "main": "index.js",
   "scripts": {
     "examples": "node ./examples/index.js"
