@@ -1,0 +1,19 @@
+{
+  "name": "light-async-polling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "examples": "node ./examples/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allemanfredi/light-async-polling.git"
+  },
+  "author": "allemanfredi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allemanfredi/light-async-polling/issues"
+  },
+  "homepage": "https://github.com/allemanfredi/light-async-polling#readme"
+}
