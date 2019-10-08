@@ -6,7 +6,7 @@ Super light javascript function for making polling
 
 ``` js
 
-  const polling = require('polling')
+  const polling = require('light-async-polling')
 
   await polling(async () => {
     const r = yourFunction()
